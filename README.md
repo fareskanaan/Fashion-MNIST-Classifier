@@ -20,7 +20,7 @@ The model is a simple CNN with dropout and trained using data augmentation.
 Final accuracy achieved on test set: **91%**
 
 ### Sample prediction:
-![Image example: {class_names[y_train[0]]}](plots/sample_image.png)
+![Prediction Sample](plots/predictions.png)
 
 ---
 
