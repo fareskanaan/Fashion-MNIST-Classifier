@@ -1,1 +1,6 @@
-
+cd your_repo
+mkdir plots
+mv path_to_images/*.png plots/
+git add plots/
+git commit -m "Add plots for README"
+git push origin main
