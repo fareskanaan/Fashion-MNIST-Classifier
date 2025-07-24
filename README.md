@@ -19,8 +19,6 @@ The Fashion MNIST dataset consists of 28x28 grayscale images belonging to the fo
 The model is a simple CNN with dropout and trained using data augmentation.  
 Final accuracy achieved on test set: **91%**
 
-### Sample prediction:
-![Prediction Sample](plots/predictions.png)
 
 ---
 
@@ -29,8 +27,6 @@ Final accuracy achieved on test set: **91%**
 - Accuracy: **91%**
 - Loss: optimized with `Adam` and early stopping
 - Includes confusion matrix, best/worst predictions, and class-wise F1-score
-
-![Confusion Matrix](plots/confusion_matrix.png)
 
 ---
 
